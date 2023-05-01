@@ -1,0 +1,99 @@
+
+.menu {
+    background-color: grey;
+    border: 10px solid black;
+    width: 100%;
+    position: fixed;
+    z-index: 3;
+    text-align: center;
+    font-size: 30px;
+    font-family: Brush Script MT, Brush Script Std, cursive;
+
+
+}
+
+iframe {
+    border-width: 10px;
+    z-index: 1;
+    margin-top: 200px;
+    margin-bottom: 35px;
+    
+}
+
+.box-container {
+    width: 100%
+}
+
+.box-1 {
+    background: #5A5A5A;
+    border: 10px solid black;
+    margin: auto;
+    width: 20%;
+    padding: 10px;
+    font-family: Arial;
+    text-align: center;
+    position: static;
+}
+
+.sad-box-1 {
+    text-align: left;
+    border:10px solid white;
+    padding-top: 20px;
+    padding-right: 10px;
+    padding-bottom: 20px;
+    padding-left: 10px;
+    margin-top: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    background-color: #454749;
+    font-size: 20px;
+    font-family: Arial;
+    position: static;
+}
+
+.sad-box-2 {
+    text-align: left;
+    border: 10px solid white;
+    padding-top: 20px;
+    padding-right: 10px;
+    padding-bottom: 20px;
+    padding-left: 10px;
+    margin-top: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    background-color: #454749;
+    font-size: 20px;
+    font-family: Arial;
+    position: static;
+}
+
+.sad-box-3 {
+    text-align: left;
+    border: 10px solid white;
+    padding-top: 20px;
+    padding-right: 10px;
+    padding-bottom: 20px;
+    padding-left: 10px;
+    margin-top: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    background-color: #454749;
+    font-size: 20px;
+    font-family: Arial;
+    position: static;
+}
+
+p {
+    color: white;
+
+}
+
+body {
+    background-image: url('backcss.webp');
+    height: 150px;
+    font-weight: bold;
+
+}
